@@ -141,7 +141,7 @@ nav {
 }
 
 .bg-image {
-    background-image: url(assets/images/building\ image.jpg);
+    background-image: url(assets/images/building\ image.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100vw;
@@ -1245,7 +1245,7 @@ nav {
 .textBlend > h1 {
     max-width: fit-content;
     font-size: 12vmax;
-    background-image: url(assets/images/building\ image.jpg);
+    background-image: url(assets/images/building\ image.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1366,7 +1366,7 @@ footer {
 
 .lastFooterItem {
     height: 95px;
-    background-image: url(assets/images/footer.jpg);
+    background-image: url(assets/images/footer.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(1000px, 100vw);
